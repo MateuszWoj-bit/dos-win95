@@ -6,6 +6,11 @@
 
 🔗 [https://dos-win95.netlify.app/](https://dos-win95.netlify.app/)
 
+Type:
+```
+boot c:
+```
+
 ## 🖥️ Features
 
 - Authentic Windows 95-style user interface
