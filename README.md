@@ -22,5 +22,5 @@ If you'd like to run it locally or explore the source code:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/dos-win95.git
+git clone https://github.com/MateuszWoj-bit/dos-win95
 cd dos-win95
