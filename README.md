@@ -1,6 +1,6 @@
 # DOS-Win95 Online Emulator
 
-🎮 A fun and interactive recreation of a Windows 95/DOS-style desktop – all in your browser!
+🎮 A fun and interactive recreation of a Windows 95/DOS desktop luncher – all in your browser!
 
 ## 🌐 Live Demo
 
